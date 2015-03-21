@@ -24,3 +24,7 @@ Features include:
   * From external files (including experimental support for MS Project XML files)
   * From JavaScript Strings 
 * Support for Internationalisation (all hard coded strings can be overridden) 
+
+## How do i Use JSGantt?
+
+[Here's a small number of examples](https://github.com/ccoenen/jsgantt-improved/blob/wiki/Documentation.md)
